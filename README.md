@@ -67,3 +67,5 @@ Start with a clean data-quality section, then explain the major SQL decisions. A
 <img width="1642" height="1044" alt="image" src="https://github.com/user-attachments/assets/ea969996-4860-470a-9bf5-d02f1d4f8f66" />
 <img width="1636" height="1240" alt="image" src="https://github.com/user-attachments/assets/f9c9e61e-9e4e-4436-bc17-a2ac30214690" />
 
+## Author
+Imtiyaj Ali Shaikh
